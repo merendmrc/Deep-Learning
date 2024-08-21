@@ -1,0 +1,30 @@
+# Ignore Python virtual environment
+venv/
+myenv/
+
+.idea/
+
+# Ignore compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore environment variables files
+.env
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore macOS-specific files
+.DS_Store
+
+# Ignore Windows-specific files
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore other common files
+*.sqlite3
+
+test.ipybn
